@@ -49,7 +49,7 @@ curl -i -X GET -H "Content-Type: application/json" -d '{"token":"<your_token>"}'
 
 ## Testing
 **To setup test databases, run the following commands in mysql:**
-- source "<path-to-app-directory>"/tests/test-db.sql
+- source '<path-to-app-directory>'/tests/test-db.sql
 - source "<path-to-app-directory>"/tests/football-db.sql
 
 **To run the automated unit tests, run the following commands:**
