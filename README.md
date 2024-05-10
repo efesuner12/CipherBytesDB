@@ -5,6 +5,8 @@ Through a wide ranged set of encryption models combined with state-of-art encryp
 
 Furthermore, it presents a data retrieval API that is designed for querying encrypted datasets, aiming to seamlessly integrate into existing database workflows without compromising efficiency.
 
+Developed as the undergraduate final year project @ The University of Birmingham
+
 ## Pre-requisites
 - MySQL should already be installed on the host that will run the application 
 - The External Key Management System host should be allocated with a static IP address
