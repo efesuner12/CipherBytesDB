@@ -1,0 +1,6 @@
+mysql-connector-python==8.2.0
+cryptography==41.0.7
+Flask==3.0.2
+flask_restful==0.3.10
+PyJWT==2.8.0
+tinyec==0.4.0
